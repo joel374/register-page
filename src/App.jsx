@@ -1,8 +1,8 @@
-import Regist from "./components/Register"
+import Register from "./components/Register"
 function App() {
   return (
     <div>
-      <Regist />
+      <Register />
     </div>
   )
 }

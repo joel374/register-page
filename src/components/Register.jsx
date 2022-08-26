@@ -22,7 +22,7 @@ import {
 } from "@chakra-ui/react"
 import { useState } from "react"
 
-const Regist = () => {
+const Register = () => {
   const [inputText, setInputText] = useState("")
   const [inputEmail, setInputText2] = useState("")
   const [inputPass, setInputText3] = useState("")
@@ -156,4 +156,4 @@ const Regist = () => {
   )
 }
 
-export default Regist
+export default Register
